@@ -1,0 +1,2 @@
+# allaboutbeans.github.io
+beans
